@@ -33,7 +33,7 @@
     "apollo-cache-inmemory": "1.1.4",
     "apollo-client": "2.2.0",
     "aws-amplify": "^0.2.15",
-    "aws-amplify-angular": "^0.1.0",
+    "aws-amplify-angular": "^0.1.4",
     "aws-appsync": "^1.0.12",
     "babel-polyfill": "^6.26.0",
     "core-js": "^2.5.3",
